@@ -12,5 +12,5 @@ docker exec -it standalone_postgres psql forest_postgres forest
 OR
 
 ```
-psql postgres://forest:secret@localhost:5417/forest_postgres
+psql postgres://forest:secret@localhost:5418/forest_postgres
 ```
